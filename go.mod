@@ -3,7 +3,7 @@ module github.com/monsterpark/pansi
 go 1.24
 
 require (
-	github.com/amacneil/dbmate/v2 v2.27.0
+	github.com/amacneil/dbmate/v2 v2.28.0
 	github.com/dromara/carbon/v2 v2.6.9
 	gorm.io/gorm v1.30.0
 	goyave.dev/filter v0.8.0
@@ -18,7 +18,7 @@ require (
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/mattn/go-sqlite3 v1.14.28 // indirect
 	github.com/samber/lo v1.50.0 // indirect
-	golang.org/x/text v0.26.0 // indirect
+	golang.org/x/text v0.27.0 // indirect
 	gorm.io/driver/sqlite v1.5.7 // indirect
 	goyave.dev/copier v0.4.4 // indirect
 )
